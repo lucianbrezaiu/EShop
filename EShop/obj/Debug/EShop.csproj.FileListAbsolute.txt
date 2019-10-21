@@ -1,0 +1,14 @@
+C:\Users\Luci\Desktop\EShop\EShop\EShop\bin\Debug\EShop.exe.config
+C:\Users\Luci\Desktop\EShop\EShop\EShop\bin\Debug\EShop.exe
+C:\Users\Luci\Desktop\EShop\EShop\EShop\bin\Debug\EShop.pdb
+C:\Users\Luci\Desktop\EShop\EShop\EShop\obj\Debug\EShop.csproj.CoreCompileInputs.cache
+C:\Users\Luci\Desktop\EShop\EShop\EShop\obj\Debug\EShop.exe
+C:\Users\Luci\Desktop\EShop\EShop\EShop\obj\Debug\EShop.pdb
+C:\Users\Luci\Desktop\EShop\EShop\EShop\obj\Debug\EShop.csprojAssemblyReference.cache
+E:\an3\sem2\sabloane proiectare\EShop\EShop\EShop\bin\Debug\EShop.exe.config
+E:\an3\sem2\sabloane proiectare\EShop\EShop\EShop\bin\Debug\EShop.exe
+E:\an3\sem2\sabloane proiectare\EShop\EShop\EShop\bin\Debug\EShop.pdb
+E:\an3\sem2\sabloane proiectare\EShop\EShop\EShop\obj\Debug\EShop.csprojAssemblyReference.cache
+E:\an3\sem2\sabloane proiectare\EShop\EShop\EShop\obj\Debug\EShop.csproj.CoreCompileInputs.cache
+E:\an3\sem2\sabloane proiectare\EShop\EShop\EShop\obj\Debug\EShop.exe
+E:\an3\sem2\sabloane proiectare\EShop\EShop\EShop\obj\Debug\EShop.pdb
